@@ -46,7 +46,6 @@
             text-align: center;
             color: white;
             outline: none;
-            border: none;
             background-color: gold;
             border: 3px solid chocolate;
             border-radius: 5px;
@@ -107,16 +106,15 @@
         }
         .b4_imgbox img{
             float: left;
+            width: 25%;
         }
         .box3{
-            /*position:relative;*/
             border-top:2px solid #c7c8c9;
-            border-bottom:2px solid #c7c8c9;
-            margin-bottom:2rem;
         }
         .b3_list{
             display:block;
-            margin:0 auto;
+            margin:auto;
+            margin-left:2rem;
         }
         .b3_list li{
             display:block;
@@ -126,7 +124,7 @@
         }
         .b3_list li img{
             width:12rem;
-            height:4rem;
+            height:7rem;
         }
         .clr{
             clear:both;
@@ -151,8 +149,53 @@
             color: white;
             background-color: #0b102d;
         }
+        .box5{
+            background-color:#eff1f4;
+        }
+        .b5_tab{
+            font-size:2rem;
+            margin-left:2rem;
+            color:#999;
+        }
+        .b5_list{
+            display:block;
+            margin-left:4rem;
+        }
+        .b5_list li{
+            list-style:none;
+            display:block;
+            float:left;
+            text-align:center;
+            margin-right:3rem;
+            width:30%;
+            height:15rem;
+        }
+        .b5_img{
+            margin:auto;
+            width:6rem;
+            height:5rem;
+            background-size:6rem 5rem;
+            margin-bottom:1rem;
+        }
+        .b5_img1{
+            background-image:url("b5_img1.png");
+        }
+        .b5_img2{
+            background-image:url("b5_img2.png");
+        }
+        .b5_img3{
+            background-image:url("b5_img4.jpg");
+        }
+        .b5_title{
+            font-size:1.3rem;
+            font-weight:bold;
+            color:#333;
+        }
+        .b5_content{
+            margin-top:0.5rem;
+            color:#666;
+        }
     </style>
-    <!--<script src="jquery-carousel-plugin.js"></script>-->
 </head>
 <body>
 
@@ -198,12 +241,29 @@
         <img src="images/1111005121281.jpg" alt="">
         <img src="images/1111005121281.jpg" alt="">
         <img src="images/1111005121281.jpg" alt="">
-        <img src="images/1111005121281.jpg" alt="">
-        <img src="images/1111005121281.jpg" alt="">
     </div>
 </div>
-
-<div class="box5"></div>
+<div class="box5">
+    <div class="b5_tab">技能</div>
+    <ul class="b5_list">
+        <li>
+            <div class="b5_img b5_img1"></div>
+            <div class="b5_title">H5技能</div>
+            <div class="b5_content">H5是前端重要的技能点之一，是移动端特效与动态交互的首选;H5是前端重要的技能点之一，是移动端特效与动态交互的首选</div>
+        </li>
+        <li>
+            <div class="b5_img b5_img2"></div>
+            <div class="b5_title">H5技能</div>
+            <div class="b5_content">H5是前端重要的技能点之一，是移动端特效与动态交互的首选;H5是前端重要的技能点之一，是移动端特效与动态交互的首选</div>
+        </li>
+        <li>
+            <div class="b5_img b5_img3"></div>
+            <div class="b5_title">H5技能</div>
+            <div class="b5_content">H5是前端重要的技能点之一，是移动端特效与动态交互的首选;H5是前端重要的技能点之一，是移动端特效与动态交互的首选</div>
+        </li>
+    </ul>
+    <div class="clr"></div>
+</div>
 <div class="box6">
     <h1 class="b6_title">
         EXPERIENCE
