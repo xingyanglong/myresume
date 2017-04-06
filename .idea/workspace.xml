@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="197" column="12" lean-forward="true" selection-start-line="197" selection-start-column="12" selection-end-line="197" selection-end-column="12" />
+            <state relative-caret-position="5616">
+              <caret line="276" column="0" lean-forward="true" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -177,22 +177,22 @@
       <workItem from="1491395675842" duration="712000" />
       <workItem from="1491396715321" duration="2485000" />
       <workItem from="1491439546035" duration="2825000" />
-      <workItem from="1491442753464" duration="102000" />
+      <workItem from="1491442753464" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9840000" />
+    <option name="totallyTimeSpent" value="10260000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="439" y="0" width="927" height="703" extended-state="1" />
+    <frame x="439" y="0" width="927" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17762399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -295,8 +295,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="197" column="12" lean-forward="true" selection-start-line="197" selection-start-column="12" selection-end-line="197" selection-end-column="12" />
+        <state relative-caret-position="5616">
+          <caret line="276" column="0" lean-forward="true" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
